@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2600554.svg)](https://doi.org/10.5281/zenodo.2600554)
+
 # Digital Scholarly Editing with TEI
 An introduction to the Text Encoding Initiative for the Nick Virgilio Archives project, Rutgers Digital Studies Center.
 
